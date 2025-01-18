@@ -24,6 +24,13 @@ header {
     margin-bottom: 8px;
 }
 
+#isa {
+    width: 179px;
+    height: 179px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 #info {
     list-style: none;
     display: flex;
