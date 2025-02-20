@@ -4,7 +4,7 @@
 
 <p align="center">
 <strong>Projeto de Formação Fullstack</strong>.
-Utilizando HTML e CSS e conceitos de flexbox.
+Utilizando conceitos de flexbox.
 <em>Fundamentos do HTML e CSS na Rocketseat</em>.
 </p>
 
